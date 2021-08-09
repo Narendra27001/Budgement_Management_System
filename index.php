@@ -1,5 +1,5 @@
 <?php
-    require 'includes\common.php';
+    require 'includes/common.php';
     if (isset($_SESSION['email'])) { 
     header('location: home.php');
     }
