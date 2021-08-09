@@ -1,0 +1,49 @@
+#bannerImage{
+    margin-top: 50px;
+    padding-top: 62px;
+    padding-bottom: 70px;
+    text-align: center;
+    position: relative;
+    color: #f8f8f8;
+    background: url('img/backgroundimg.jpg');
+    background-size: cover;
+}
+#bannerContent{
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    max-width: 660px;
+    background-color: rgba(0,0,0,0.7);
+}
+#webpage_color{
+    background-color: #f9f9fd;
+}
+#form_out_border{
+     border: 2px solid #9d9d9d;
+}
+#form_in_border{
+    border-bottom: 2px solid #9d9d9d;
+    padding: 5px; 
+}
+#spacing{
+    padding: 0 15px;
+}
+#button{
+    border-color: #398a7b;
+    color: #398a7b;                
+}
+#button:hover{
+    background-color: #398a7b;
+    color: #f9f9fd;
+}
+.link{
+    text-decoration: none;
+}
+#new_plan{
+    font-size: 50px;
+    position:fixed;
+    bottom: 50px;
+    right: 50px;
+}
